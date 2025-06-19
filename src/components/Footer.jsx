@@ -10,7 +10,7 @@ const Footer = () => {
             Providing you with the best healthcare services since 2010.
           </p>
           <p>
-            ©MediCare 2023. All rights reserved
+            ©MediCare 2025. All rights reserved
           </p>
         </div>
 
