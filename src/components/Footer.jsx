@@ -27,9 +27,9 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-bold mb-4">Region</h3>
           <ul className="space-y-2">
+            <li><a href="#" className=" hover:text-primary transition">Pakistan</a></li>
+            <li><a href="#" className=" hover:text-primary transition">Dubai</a></li>
             <li><a href="#" className=" hover:text-primary transition">Indonesia</a></li>
-            <li><a href="#" className=" hover:text-primary transition">Singapore</a></li>
-            <li><a href="#" className=" hover:text-primary transition">Hongkong</a></li>
             <li><a href="#" className=" hover:text-primary transition">Canada</a></li>
           </ul>
         </div>
