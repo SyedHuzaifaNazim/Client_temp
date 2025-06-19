@@ -5,21 +5,21 @@ const Testimonials = () => {
       name: 'John Smith',
       role: 'Patient',
       content: 'The doctors at MediCare are truly exceptional. They took the time to listen to my concerns and provided personalized care that made all the difference in my recovery.',
-      image: '/images/patient1.jpg'
+      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60'
     },
     {
       id: 2,
       name: 'Sarah Williams',
       role: 'Patient',
       content: 'I was nervous about my procedure, but the staff made me feel comfortable and well-informed throughout the entire process. Highly recommend their services!',
-      image: '/images/patient2.jpg'
+      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60'
     },
     {
       id: 3,
       name: 'David Johnson',
       role: 'Patient',
       content: 'The online consultation feature saved me so much time. I could get professional medical advice without leaving my home during my busy schedule.',
-      image: '/images/patient3.jpg'
+      image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60'
     }
   ]
 

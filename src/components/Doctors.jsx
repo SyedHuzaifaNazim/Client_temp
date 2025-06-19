@@ -1,28 +1,33 @@
+import image1 from '../assets/3112b9f03ae27c290e811dd6f4163d20.jpg'
+import image2 from '../assets/premium_photo-1661580574627-9211124e5c3f.jpeg'
+import image3 from '../assets/dr.jpg'
+import image4 from '../assets/profile-picture-smiling-old-male-600nw-1769847965.webp'
+
 const Doctors = () => {
   const doctors = [
     {
       id: 1,
       name: 'Dr. Sarah Johnson',
       specialty: 'Cardiologist',
-      image: '/images/doctor1.jpg'
+      image: image2  // Removed the curly braces
     },
     {
       id: 2,
       name: 'Dr. Michael Chen',
       specialty: 'Neurologist',
-      image: '/images/doctor2.jpg'
+      image: image1  // Removed the curly braces
     },
     {
       id: 3,
       name: 'Dr. Emily Wilson',
       specialty: 'Pediatrician',
-      image: '/images/doctor3.jpg'
+      image: image3  // Removed the curly braces
     },
     {
       id: 4,
       name: 'Dr. Robert Garcia',
       specialty: 'Dermatologist',
-      image: '/images/doctor4.jpg'
+      image: image4  // Removed the curly braces
     }
   ]
 
