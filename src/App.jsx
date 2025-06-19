@@ -8,8 +8,8 @@ import Footer from './components/Footer'
 function App() {
   return (
     <div className="font-poppins">
-      <Header />
       <Hero />
+      <Header />
       <Services />
       <Doctors />
       <Testimonials />
